@@ -28,7 +28,8 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
-
+[<img src="https://img.shields.io/badge/figma-brightgreen?style=flat&logo=figma&logoColor=blue&logoSize=25&labelColor=black&color=black" alt="Figma" title="Figma" height="25" />][tech_tools_anchor]
+&nbsp;
 
 <a name="learning-next"></a>
 
