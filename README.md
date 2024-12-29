@@ -35,7 +35,6 @@
 ## 📖  Что я сейчас изучаю
 
 <img src="https://img.shields.io/badge/laravel-brightgreen?style=flat&logo=laravel&logoColor=red&labelColor=black&color=black" height="25"/>
-&nbsp;
 <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
 &nbsp;
 
