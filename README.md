@@ -1,7 +1,7 @@
 # Добро пожаловать ! 🥖
 <p align="center">
   <a href="https://yuna0x0.com">
-    <img src="tokio_ghoul.webp" alt="Banner">
+    <img src="tokio_ghoul.gif" alt="Banner">
   </a>
 </p>
 
